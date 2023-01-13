@@ -126,7 +126,8 @@ product-based company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="sujeetcoder Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainRaghuveer&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="raghuveer Top Languages" src="https://github-readme-stats.vercel.app/api?username=sainRaghuveer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+ />
             </p>      
            <br/>
          <p align="center">
