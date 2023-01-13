@@ -126,8 +126,7 @@ product-based company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="raghuveer Top Languages" src="https://github-readme-stats.vercel.app/api?username=sainRaghuveer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
- />
+        <img alt="raghuveer Top Languages" src="https://github-readme-stats.vercel.app/api?username=sainRaghuveer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
             </p>      
            <br/>
          <p align="center">
@@ -137,7 +136,7 @@ product-based company.
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <img alt="Raghuveer Sain Github Stats" src="https://github-readme-stats.vercel.app/api?username=sainRaghuveer&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" />
+          <img alt="Raghuveer Sain Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=sainRaghuveer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"/>
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       
