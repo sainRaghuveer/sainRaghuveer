@@ -121,9 +121,7 @@ product-based company.
       
       
       <hr />
-      https://github-readme-stats.vercel.app/api?username=sainRaghuveer&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat
-      https://github-readme-stats.vercel.app/api?username=sainRaghuveer&hide=contribs
-      
+     
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
