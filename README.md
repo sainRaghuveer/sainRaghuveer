@@ -56,7 +56,7 @@ product-based company.
       <a href="https://sainRaghuveer.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a href="#" target="_blank">
+      <a href="https://twitter.com/braghuveersain" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
       <a title="Raghuveer Sain" href="mailto:raghuveersain987@gmail.com" target="_blank">
