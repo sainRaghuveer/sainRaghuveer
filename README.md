@@ -36,7 +36,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1_f8LWL7KmCxpgoGNpeX3qJAvY29UU6W/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://sainRaghuveer.github.i" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://sainRaghuveer" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
@@ -53,7 +53,7 @@ product-based company.
      <a href="https://www.linkedin.com/in/raghuveer-sain-8a15641b8/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://sainRaghuveer.github.io" target="_blank">
+      <a href="https://sainRaghuveer" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
       <a href="https://twitter.com/braghuveersain" target="_blank">
